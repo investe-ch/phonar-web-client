@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.cfb1f1f2.css",
-    "main.js": "/static/js/main.f3ad629a.js",
-    "index.html": "/index.html",
-    "main.cfb1f1f2.css.map": "/static/css/main.cfb1f1f2.css.map",
-    "main.f3ad629a.js.map": "/static/js/main.f3ad629a.js.map"
+    "main.css": "/phonar-web-client/static/css/main.cfb1f1f2.css",
+    "main.js": "/phonar-web-client/static/js/main.f3ad629a.js",
+    "index.html": "/phonar-web-client/index.html",
+    "main.cfb1f1f2.css.map": "/phonar-web-client/static/css/main.cfb1f1f2.css.map",
+    "main.f3ad629a.js.map": "/phonar-web-client/static/js/main.f3ad629a.js.map"
   },
   "entrypoints": [
     "static/css/main.cfb1f1f2.css",
